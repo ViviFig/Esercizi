@@ -1,0 +1,42 @@
+C:\Users\Utente\Desktop\LiberaPlayer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Utente\Desktop\LiberaPlayer\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Utente\Desktop\LiberaPlayer\obj\Debug\Assembly-CSharp.dll
+C:\Users\Utente\Desktop\LiberaPlayer\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\obj\Debug\Assembly-CSharp.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Utente\Desktop\LiberaPlayer 9 marzo\obj\Debug\Assembly-CSharp.pdb
